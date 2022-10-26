@@ -1,5 +1,4 @@
 # TodoList
 Para usar, instalar as dependencias com npm install, npm run server (para iniciar o servidor) e npm run dev.
 
-
-![image](https://user-images.githubusercontent.com/104576340/188521483-538cdb49-59a4-4e6d-938d-53ac28d42d23.png)
+![sdfasd](https://user-images.githubusercontent.com/104576340/198158526-91dc9c19-47c1-4c65-8578-ede6f29fa1ee.png)
